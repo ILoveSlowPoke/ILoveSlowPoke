@@ -48,7 +48,7 @@
 
 | Project | What it is | Links |
 |---|---|---|
-| **What's Actually Covered?** | **2nd Place** in IAG Insurance Hackathon 2026. Ideation, user journey and initial design. | [Live](whatsactuallycovered.vercel.app) · [Code](https://github.com/immanuel-lam/iaghackathon) |
+| **What's Actually Covered?** | **2nd Place** in IAG Insurance Hackathon 2026. Ideation, user journey and initial design. | [Live(https://whatsactuallycovered.vercel.app/) · [Code](https://github.com/immanuel-lam/iaghackathon) |
 | **Hallowvale Heist** | University game design final project, Pacman style game in a medieval fantasy setting featuring hand drawn assets. Play as the thief and run from the guards while collecting as many coins as possible around Hallowvale. Be sure to visit mum down at the your home district at the bottom right of the map. | [Code](https://github.com/ILoveSlowPoke/HallowvaleHeist) |
 
 ### 🎬 Demos
