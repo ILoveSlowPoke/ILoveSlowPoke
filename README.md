@@ -50,7 +50,31 @@
 |---|---|---|
 | **What's Actually Covered?** | **2nd Place** in IAG Insurance Hackathon 2026. Ideation, user journey and initial design. | [Live](whatsactuallycovered.vercel.app) · [Code](https://github.com/immanuel-lam/iaghackathon) |
 | **Hallowvale Heist** | University game design final project, Pacman style game in a medieval fantasy setting featuring hand drawn assets. Play as the thief and run from the guards while collecting as many coins as possible around Hallowvale. Be sure to visit mum down at the your home district at the bottom right of the map. | [Code](https://github.com/ILoveSlowPoke/HallowvaleHeist) |
-| **[YouBeauty work]** | [Describe what you shipped, *without* sharing private code; link a case study instead] | [Case study](URL) |
+
+### 🎬 Demos
+
+<details>
+<summary><strong>▶ What's Actually Covered?</strong> (hackathon prototype)</summary>
+
+<br/>
+<p align="center">
+  <img src="WhatsActuallyCovered.gif" width="720" alt="What's Actually Covered? demo"/>
+</p>
+
+</details>
+
+<details>
+<summary><strong>▶ Hallowvale Heist</strong> (gameplay)</summary>
+
+<br/>
+<p align="center">
+  <a href="https://youtu.be/VIDEO_ID"><img src="https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg" width="720" alt="Play the Hallowvale Heist gameplay video on YouTube"/></a>
+</p>
+
+Play as the thief: dodge the guards and grab as many coins as you can around Hallowvale.
+Be sure to visit Mum in your home district at the bottom right of the map!
+
+</details>
 
 ### 📫 Let's talk
 
