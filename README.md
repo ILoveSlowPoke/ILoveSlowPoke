@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/sean-gocher24"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:sean.gocher61@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="(https://github.com/ILoveSlowPoke/ILoveSlowPoke/blob/main/Sean-Gocher-Resume.pdf)"><img src="https://img.shields.io/badge/Résumé-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé"/></a>
+  <a href="https://github.com/ILoveSlowPoke/ILoveSlowPoke/blob/main/Sean-Gocher-Resume.pdf"><img src="https://img.shields.io/badge/Résumé-4B5563?style=for-the-badge&logo=readdotcv&logoColor=white" alt="Résumé"/></a>
 </p>
 
 ---
